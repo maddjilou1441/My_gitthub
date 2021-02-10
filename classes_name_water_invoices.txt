@@ -1,0 +1,11 @@
+réference_client
+numéro_facture
+interlocuteur_client
+point_accueil
+mandataire
+période_consom
+montant_facturé
+solde_antérieur
+adresse_client
+adresse_technique
+facture_date
